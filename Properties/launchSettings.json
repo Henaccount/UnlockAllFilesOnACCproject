@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnlockAllFilesOnACCproject": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
